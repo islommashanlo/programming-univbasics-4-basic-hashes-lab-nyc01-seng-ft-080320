@@ -5,6 +5,7 @@ end
 
 def my_hash
   # return a valid hash with any key/value pair of your choice
+  isa = {name: "Isa", age: 24, alignment: "left"}
 end
 
 def pioneer
